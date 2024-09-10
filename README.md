@@ -1,23 +1,22 @@
 # phos
+a self-hosted photo library
 
-[![Package Version](https://img.shields.io/hexpm/v/phos)](https://hex.pm/packages/phos)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/phos/)
+# why phos?
+photography's root word, phōs (φῶς), greek for "light"
 
-```sh
-gleam add phos@1
-```
-```gleam
-import phos
+# why _use_ phos?
+* tbd
 
-pub fn main() {
-  // TODO: An example of the project in use
-}
-```
+# goals
+* improve my proficiency in gleam
+* create something I'll use every day
+* learn about design patterns
+* play with ideas
 
-Further documentation can be found at <https://hexdocs.pm/phos>.
+# roadmap
+* tbd
 
-## Development
-
+## contributing
 ```sh
 gleam run   # Run the project
 gleam test  # Run the tests
